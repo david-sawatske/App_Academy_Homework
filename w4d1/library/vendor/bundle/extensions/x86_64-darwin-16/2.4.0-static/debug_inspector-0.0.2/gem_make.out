@@ -1,0 +1,15 @@
+current directory: /Users/a7/Google Drive/aA/homework/w4d1/library/vendor/bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+/Users/a7/.rbenv/versions/2.4.0/bin/ruby -r ./siteconf20170417-51064-1p0n9d.rb extconf.rb
+creating Makefile
+
+current directory: /Users/a7/Google Drive/aA/homework/w4d1/library/vendor/bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" clean
+
+current directory: /Users/a7/Google Drive/aA/homework/w4d1/library/vendor/bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR="
+compiling debug_inspector.c
+linking shared-object debug_inspector.bundle
+
+current directory: /Users/a7/Google Drive/aA/homework/w4d1/library/vendor/bundle/gems/debug_inspector-0.0.2/ext/debug_inspector
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 debug_inspector.bundle ./.gem.20170417-51064-1ls9i4w
