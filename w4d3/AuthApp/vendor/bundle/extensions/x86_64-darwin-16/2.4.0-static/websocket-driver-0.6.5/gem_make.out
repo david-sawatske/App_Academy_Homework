@@ -1,0 +1,15 @@
+current directory: /Users/a7/Google Drive/aA/homework/w4d3/AuthApp/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/a7/.rbenv/versions/2.4.0/bin/ruby -r ./siteconf20170419-58534-88eac8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/a7/Google Drive/aA/homework/w4d3/AuthApp/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/a7/Google Drive/aA/homework/w4d3/AuthApp/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/a7/Google Drive/aA/homework/w4d3/AuthApp/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20170419-58534-1uhfclu

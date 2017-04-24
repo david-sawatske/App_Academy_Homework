@@ -1,0 +1,16 @@
+current directory: /Users/a7/Desktop/ToyApp/vendor/bundle/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+/Users/a7/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170424-96773-1r3ed6c.rb extconf.rb
+
+current directory: /Users/a7/Desktop/ToyApp/vendor/bundle/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/a7/Desktop/ToyApp/vendor/bundle/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+make "DESTDIR="
+echo "Nada."
+Nada.
+
+current directory: /Users/a7/Desktop/ToyApp/vendor/bundle/gems/binding_of_caller-0.7.2/ext/binding_of_caller
+make "DESTDIR=" install
+echo "Nada."
+Nada.
